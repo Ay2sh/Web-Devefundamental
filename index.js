@@ -1,0 +1,1 @@
+alert("Ayush is a good boy")
